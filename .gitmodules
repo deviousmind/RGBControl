@@ -1,0 +1,6 @@
+[submodule "RGBControlApp"]
+	path = RGBControlApp
+	url = https://github.com/deviousmind/RGBControlApp.git
+[submodule "rgb_buttons"]
+	path = rgb_buttons
+	url = https://github.com/deviousmind/rgb_buttons.git
